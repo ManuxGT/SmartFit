@@ -1,0 +1,176 @@
+.logo{
+    width: 35%;
+}
+
+.navbar{
+    -webkit-transition: all ease .5s !important;
+    -o-transition: all ease .5s !important;
+    transition: all ease .5s !important;
+}
+
+.navbar-brand{
+    width: 20rem;
+    margin: 0%;
+    padding: 0%;
+}
+
+.nav-item{
+    margin-right: 2rem;    
+}
+
+.carousel-caption{
+
+    opacity: 0.75;
+    background: rgb(219, 219, 219);
+}
+
+.carousel-caption h4, .carousel-caption p{
+    color: black;
+}
+
+h2{
+    margin: 3rem auto;
+    font-size: 2.5rem;
+}
+
+.icn-agua{
+    width:50%;
+    display: block;
+    margin: auto;
+}
+
+.icn-ejercicio{
+    width:50%;
+    display: block;
+    margin: auto;
+}
+
+.h5-subs, .sub-recomendaciones p {
+    text-align: center;
+}
+
+.sub-recomendaciones{
+    margin: auto;
+    padding: 0.5rem;
+}
+
+.col-md-2{
+    margin: auto;
+}
+
+.Cantidad{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.MargenIzquierda{
+    margin-left: auto;
+}
+
+.MargenDerecha{
+    margin-right: auto;
+}
+
+.ImagenDerecha{
+    display: inline-block;
+    margin: auto;
+    
+}
+
+h4{
+    text-align: center;
+}
+
+.centrar{
+    margin: auto;
+}
+
+.BotonBeneficios{
+    float: right;
+}
+
+.SinMargenes{
+    display: block;
+    margin: 0%;
+    padding: 0%;
+}
+
+footer{
+    padding: 2.5%;
+    background-color: rgb(255, 197, 53);
+}
+
+.text-footer{
+    font-size: 0.80rem;
+}
+
+.text-footer-big{
+    font-size: 1.5rem;
+}
+
+.imgfooter{
+    display: inline-block;
+    margin-left: 1rem;
+}
+
+.linkedin{
+    margin-left: 10rem;
+}
+
+.QuienesSomos{
+    background-color: rgb(255, 197, 53);
+}
+
+.RowQS{
+    padding: 4% 2% 0% 2%;
+    text-align: center;
+}
+
+.FilaQS .ColumnaQS{
+    padding: 1.5%;
+}
+
+.ColumnaQS h3{
+    text-align: center;
+}
+
+.ColumnaQS h4{
+    font-size: 1.1rem;
+    margin-left: 3%;
+    text-align: left;
+}
+
+.Contacto{
+    padding: 4% 2%;
+    text-align: center;
+
+}
+
+.Contacto h5{
+    margin: auto;
+    font-weight: normal;
+}
+
+.formulario{
+    padding: 0% 8%;
+}
+
+.form-control{
+    width: 90%;
+}
+
+textarea{
+    display: inline-block;
+    width: 95% !important ;
+    margin-bottom: 1rem;
+}
+
+.msj{
+    margin:auto;
+}
+
+.menu-fixed{
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+}
